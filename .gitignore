@@ -1,0 +1,6 @@
+/external/
+/build/
+/build-pic/
+/build-builtins/
+/sysroot/
+**/.DS_Store
